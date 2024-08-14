@@ -6,6 +6,6 @@
 
 ![preview img](/preview.png)
 
-Подробнее про одностраничные сайты и их разработку можно почитать [https://artcode.com.ua/business/onepage](https://artcode.com.ua/business/onepage)
+Подробнее про мультиссылку можно почитать [https://artcode.com.ua/business/multilink](https://artcode.com.ua/business/mulilink)
 
 Продвижение одностраничного сайта [https://artcode.com.ua/blog/prodvizenie-odnostranicnogo-saita](https://artcode.com.ua/blog/prodvizenie-odnostranicnogo-saita)
